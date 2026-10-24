@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866945159953",
+    "project_id": "pet-care-medical",
+    "storage_bucket": "pet-care-medical.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866945159953:android:2ae126a591dd0a6c4f32b0",
+        "android_client_info": {
+          "package_name": "com.example.pet_care_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifuKS4j53UdUZa0SVdsg6iQ1ThYoL5oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866945159953:android:bdaf82ac269d54b14f32b0",
+        "android_client_info": {
+          "package_name": "com.petcare.medical.pet_care_medical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifuKS4j53UdUZa0SVdsg6iQ1ThYoL5oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

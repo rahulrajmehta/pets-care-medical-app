@@ -1,0 +1,26 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "pet-care-medical",
+          "appId": "1:866945159953:android:2ae126a591dd0a6c4f32b0",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "pet-care-medical",
+          "configurations": {
+            "android": "1:866945159953:android:2ae126a591dd0a6c4f32b0",
+            "ios": "1:866945159953:ios:3fa7b9a6616ae0934f32b0",
+            "web": "1:866945159953:web:d714dd6cf525c7154f32b0"
+          }
+        }
+      }
+    }
+  }
+}
